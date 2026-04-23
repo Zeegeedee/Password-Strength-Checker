@@ -2,7 +2,7 @@ import sys
 import time
 from src.app import run_checker
 
-VERSION = "v1.1"
+VERSION = "v1.1.1"
 
 if __name__ == "__main__":
     if "main.py" in sys.argv[0]:
