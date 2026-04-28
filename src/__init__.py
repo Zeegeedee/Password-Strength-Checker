@@ -1,1 +1,0 @@
-# The "src" folder includes the main code of the password strength checker. 
